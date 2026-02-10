@@ -25,4 +25,4 @@ Customer Segmentation and Prediction is a machine learning project that segments
 # Application
 - A Streamlit web app is built where users can input RFM values and get the predicted customer segment instantly. 
  # Conclusion
--This project demonstrates how data analytics and machine learning can be used to segment customers effectively and support business decision-making.
+- This project demonstrates how data analytics and machine learning can be used to segment customers effectively and support business decision-making.
